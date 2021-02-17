@@ -1,0 +1,16 @@
+footer section p{
+  padding: 50px 0;
+  line-height: 1.5em;
+  text-align: center;
+  color: #aaa;
+}
+aside button {
+  float: right;
+  font-family: 'Abel', sans-serif;
+  text-transform: uppercase;
+  padding: 15px 40px;
+  background: #b8705a;
+  color: #fff;
+  font-size: 1.2em;
+  border: none;
+}
